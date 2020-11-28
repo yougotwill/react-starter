@@ -1,6 +1,3 @@
-# dev files
-TODO.md
-
 # dependencies
 /node_modules
 /.pnp
@@ -26,3 +23,4 @@ yarn-error.log*
 # keep project IDE agnostic
 *.sublime-workspace
 *.sublime-project
+.session.vim
