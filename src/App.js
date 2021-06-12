@@ -1,8 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './styles/App.scss';
+import logo from 'logo.svg';
+import 'styles/App.scss';
 
-export default function App(props) {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
